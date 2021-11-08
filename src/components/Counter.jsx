@@ -11,7 +11,7 @@ export function Counter(){
   return(
     <section>
       <h1>{counter}</h1>
-      <button onClick={increment}>Incremment</button>
+      <button onClick={increment}>Incremmentsss</button>
     </section>
   )
 }
